@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/teejay327/robofriends.git/static/css/main.984cd43f.chunk.css",
+    "main.js": "/teejay327/robofriends.git/static/js/main.abb11285.chunk.js",
+    "main.js.map": "/teejay327/robofriends.git/static/js/main.abb11285.chunk.js.map",
+    "runtime-main.js": "/teejay327/robofriends.git/static/js/runtime-main.1935d026.js",
+    "runtime-main.js.map": "/teejay327/robofriends.git/static/js/runtime-main.1935d026.js.map",
+    "static/css/2.31461e4f.chunk.css": "/teejay327/robofriends.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e7eaf872.chunk.js": "/teejay327/robofriends.git/static/js/2.e7eaf872.chunk.js",
+    "static/js/2.e7eaf872.chunk.js.map": "/teejay327/robofriends.git/static/js/2.e7eaf872.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/teejay327/robofriends.git/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/teejay327/robofriends.git/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/teejay327/robofriends.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/teejay327/robofriends.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.984cd43f.chunk.css.map": "/teejay327/robofriends.git/static/css/main.984cd43f.chunk.css.map",
+    "static/js/2.e7eaf872.chunk.js.LICENSE.txt": "/teejay327/robofriends.git/static/js/2.e7eaf872.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1935d026.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e7eaf872.chunk.js",
+    "static/css/main.984cd43f.chunk.css",
+    "static/js/main.abb11285.chunk.js"
+  ]
+}
